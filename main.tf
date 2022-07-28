@@ -13,7 +13,7 @@ provider "azurerm" {
   
 subscription_id = "__subscriptionid__"
 client_id       = "__clientid__"
-client_secret   = "__clientsecret_"
+client_secret   = "__clientsecret__"
 tenant_id       = "__tenantid__"
 
 }
